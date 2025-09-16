@@ -1,0 +1,365 @@
+filename,true_subtype,pred_subtype,pred_main_type
+SOB_M_DC-14-16188-400-003.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_DC-14-16188-400-004.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16188-400-005.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-16188-400-006.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16188-400-007.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16188-400-008.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-16188-400-009.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-16188-400-010.png,ADENOSIS,Fibro adenoma,benign
+SOB_M_DC-14-16188-400-011.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-16188-400-012.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16188-400-013.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16188-400-014.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16188-400-015.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16188-400-016.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16188-400-017.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-16188-400-018.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16188-400-019.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16188-400-020.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16188-400-021.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16188-400-022.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-16188-400-023.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-16336-400-001.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16336-400-002.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16336-400-003.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16336-400-004.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16336-400-005.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16336-400-006.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16336-400-007.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16336-400-008.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16336-400-009.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-001.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-002.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-003.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-004.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-005.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-006.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-007.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-008.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-009.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16448-400-010.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16448-400-011.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-012.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-013.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16448-400-014.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16448-400-015.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16601-400-001.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16601-400-002.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16601-400-003.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16601-400-004.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16601-400-005.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16601-400-006.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16601-400-007.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-16601-400-008.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-16601-400-009.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16601-400-010.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16601-400-011.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-16601-400-012.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16601-400-014.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16716-400-001.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-002.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_DC-14-16716-400-003.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_DC-14-16716-400-004.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-005.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-006.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-007.png,ADENOSIS,Papillary_carcinoma,malignant
+SOB_M_DC-14-16716-400-008.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16716-400-009.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-010.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-011.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-012.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-013.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-014.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-015.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-016.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-017.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-018.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-020.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-021.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-022.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-023.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-024.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-025.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-026.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-027.png,ADENOSIS,Papillary_carcinoma,malignant
+SOB_M_DC-14-16716-400-028.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-029.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16716-400-030.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16875-400-001.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16875-400-002.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16875-400-003.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16875-400-004.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16875-400-005.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16875-400-006.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-16875-400-007.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-16875-400-008.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-17614-400-001.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17614-400-002.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17614-400-003.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17614-400-004.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-005.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17614-400-006.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17614-400-007.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17614-400-008.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17614-400-009.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_DC-14-17614-400-010.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-011.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-012.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-17614-400-013.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-014.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-17614-400-015.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17614-400-016.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_DC-14-17614-400-017.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-018.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-019.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-020.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-021.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17614-400-022.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-023.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-024.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-025.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17614-400-026.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17614-400-027.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17614-400-028.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-001.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-17901-400-002.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_DC-14-17901-400-003.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_DC-14-17901-400-004.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_DC-14-17901-400-005.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-006.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_DC-14-17901-400-007.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-008.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-009.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-010.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-011.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-012.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-17901-400-013.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-014.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-015.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-17901-400-016.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_DC-14-17901-400-017.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-018.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-17901-400-019.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-17901-400-020.png,ADENOSIS,Mucinous_Carcinoma,malignant
+SOB_M_DC-14-17901-400-021.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-17901-400-022.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-17901-400-023.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-024.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-025.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-026.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-027.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_DC-14-17901-400-028.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_DC-14-17915-400-001.png,ADENOSIS,ADENOSIS,benign
+SOB_M_DC-14-17915-400-002.png,ADENOSIS,Mucinous_Carcinoma,malignant
+SOB_M_DC-14-17915-400-003.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-20636-400-018.png,ADENOSIS,Mucinous_Carcinoma,malignant
+SOB_M_DC-14-20636-400-019.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-20636-400-020.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_DC-14-20636-400-021.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-016.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-017.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-018.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-019.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-020.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-021.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-022.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-023.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-024.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-025.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-026.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-027.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-028.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-15570C-400-029.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-16196-400-001.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-16196-400-002.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-16196-400-003.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_LC-14-16196-400-004.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_LC-14-16196-400-005.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_LC-14-16196-400-006.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-16196-400-007.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_LC-14-16196-400-008.png,ADENOSIS,ADENOSIS,benign
+SOB_M_LC-14-16196-400-009.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_LC-14-16196-400-010.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_LC-14-16196-400-011.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-16196-400-012.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_LC-14-16196-400-013.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_MC-14-18842-400-008.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_MC-14-18842D-400-006.png,ADENOSIS,Mucinous_Carcinoma,malignant
+SOB_M_MC-14-18842D-400-007.png,ADENOSIS,ADENOSIS,benign
+SOB_M_MC-14-18842D-400-008.png,ADENOSIS,ADENOSIS,benign
+SOB_M_MC-14-18842D-400-009.png,ADENOSIS,ADENOSIS,benign
+SOB_M_MC-14-18842D-400-010.png,ADENOSIS,ADENOSIS,benign
+SOB_M_MC-14-18842D-400-011.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-18842D-400-012.png,ADENOSIS,Fibro adenoma,benign
+SOB_M_MC-14-18842D-400-013.png,ADENOSIS,Fibro adenoma,benign
+SOB_M_MC-14-18842D-400-014.png,ADENOSIS,ADENOSIS,benign
+SOB_M_MC-14-19979-400-005.png,ADENOSIS,ADENOSIS,benign
+SOB_M_MC-14-19979-400-017.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_MC-14-19979-400-018.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_MC-14-19979-400-019.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_MC-14-19979-400-020.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_MC-14-19979-400-021.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-19979-400-022.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_MC-14-19979-400-023.png,ADENOSIS,ADENOSIS,benign
+SOB_M_MC-14-19979-400-024.png,ADENOSIS,ADENOSIS,benign
+SOB_M_MC-14-19979C-400-001.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-19979C-400-002.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-19979C-400-003.png,ADENOSIS,Fibro adenoma,benign
+SOB_M_MC-14-19979C-400-004.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_MC-14-19979C-400-005.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-19979C-400-006.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-19979C-400-007.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_MC-14-19979C-400-008.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-19979C-400-009.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-19979C-400-010.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-19979C-400-011.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-19979C-400-012.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-19979C-400-013.png,ADENOSIS,Fibro adenoma,benign
+SOB_M_MC-14-19979C-400-014.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_MC-14-19979C-400-015.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_PC-14-19440-400-011.png,ADENOSIS,ADENOSIS,benign
+SOB_M_PC-14-19440-400-012.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_PC-14-19440-400-013.png,ADENOSIS,ADENOSIS,benign
+SOB_M_PC-14-19440-400-014.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_PC-14-19440-400-015.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_PC-14-19440-400-016.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_PC-14-19440-400-017.png,ADENOSIS,Fibro adenoma,benign
+SOB_M_PC-14-19440-400-018.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_PC-14-19440-400-019.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_PC-14-19440-400-020.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_PC-14-19440-400-021.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_PC-14-19440-400-022.png,ADENOSIS,Mucinous_Carcinoma,malignant
+SOB_M_PC-14-19440-400-023.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_PC-14-19440-400-024.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_PC-14-19440-400-025.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_PC-14-19440-400-026.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_PC-14-19440-400-027.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_PC-14-19440-400-028.png,ADENOSIS,Phyllodes-tumor,benign
+SOB_M_PC-14-19440-400-029.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_PC-14-19440-400-030.png,ADENOSIS,Lobular_Carcinoma,malignant
+SOB_M_PC-14-19440-400-031.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_PC-15-190EF-400-009.png,ADENOSIS,Fibro adenoma,benign
+SOB_M_PC-15-190EF-400-010.png,ADENOSIS,ADENOSIS,benign
+SOB_M_PC-15-190EF-400-011.png,ADENOSIS,Fibro adenoma,benign
+SOB_M_PC-15-190EF-400-012.png,ADENOSIS,Tubular Adenoma,benign
+SOB_M_PC-15-190EF-400-013.png,ADENOSIS,Fibro adenoma,benign
+SOB_M_PC-15-190EF-400-014.png,ADENOSIS,Ductal_Carcinoma,malignant
+SOB_M_PC-15-190EF-400-015.png,ADENOSIS,Tubular Adenoma,benign
+SOB_B_A-14-22549G-400-012.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_A-14-22549G-400-013.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_A-14-22549G-400-014.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_A-14-22549G-400-015.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_A-14-22549G-400-016.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_A-14-22549G-400-020.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_A-14-22549G-400-021.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_A-14-22549G-400-022.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_A-14-22549G-400-023.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_A-14-22549G-400-024.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_A-14-22549G-400-025.png,Ductal_Carcinoma,Lobular_Carcinoma,malignant
+SOB_B_A-14-22549G-400-026.png,Ductal_Carcinoma,Lobular_Carcinoma,malignant
+SOB_B_A-14-22549G-400-027.png,Ductal_Carcinoma,Lobular_Carcinoma,malignant
+SOB_B_A-14-22549G-400-028.png,Ductal_Carcinoma,Lobular_Carcinoma,malignant
+SOB_B_A-14-22549G-400-029.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_A-14-29960CD-400-001.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_A-14-29960CD-400-002.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_A-14-29960CD-400-003.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_A-14-29960CD-400-004.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_A-14-29960CD-400-005.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_A-14-29960CD-400-006.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23060CD-400-008.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_F-14-23060CD-400-009.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_F-14-23060CD-400-010.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_F-14-23060CD-400-011.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_F-14-23060CD-400-012.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_F-14-23060CD-400-013.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23060CD-400-014.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_F-14-23060CD-400-015.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_F-14-23060CD-400-016.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_F-14-23222AB-400-001.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-002.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-003.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_F-14-23222AB-400-004.png,Ductal_Carcinoma,Phyllodes-tumor,benign
+SOB_B_F-14-23222AB-400-005.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-006.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-007.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-008.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-009.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-010.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-011.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-012.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_F-14-23222AB-400-013.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-014.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-015.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-016.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-017.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-23222AB-400-018.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_F-14-25197-400-033.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-034.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-035.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-036.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-037.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-038.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-039.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-040.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-041.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-042.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-043.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-044.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-25197-400-045.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_F-14-29960AB-400-010.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-29960AB-400-011.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-29960AB-400-013.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-29960AB-400-014.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-29960AB-400-015.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-29960AB-400-016.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_F-14-29960AB-400-017.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_PT-14-22704-400-021.png,Ductal_Carcinoma,Lobular_Carcinoma,malignant
+SOB_B_PT-14-22704-400-023.png,Ductal_Carcinoma,Lobular_Carcinoma,malignant
+SOB_B_PT-14-22704-400-024.png,Ductal_Carcinoma,Lobular_Carcinoma,malignant
+SOB_B_PT-14-22704-400-025.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_PT-14-22704-400-026.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_PT-14-22704-400-027.png,Ductal_Carcinoma,ADENOSIS,benign
+SOB_B_PT-14-22704-400-028.png,Ductal_Carcinoma,Lobular_Carcinoma,malignant
+SOB_B_PT-14-22704-400-029.png,Ductal_Carcinoma,Lobular_Carcinoma,malignant
+SOB_B_PT-14-22704-400-030.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_PT-14-22704-400-031.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_PT-14-22704-400-032.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_PT-14-22704-400-033.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_PT-14-22704-400-034.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_PT-14-22704-400-035.png,Ductal_Carcinoma,Phyllodes-tumor,benign
+SOB_B_PT-14-22704-400-036.png,Ductal_Carcinoma,Phyllodes-tumor,benign
+SOB_B_PT-14-22704-400-037.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_PT-14-22704-400-038.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_PT-14-22704-400-039.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_PT-14-29315EF-400-001.png,Ductal_Carcinoma,Mucinous_Carcinoma,malignant
+SOB_B_PT-14-29315EF-400-002.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_PT-14-29315EF-400-003.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_PT-14-29315EF-400-004.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_PT-14-29315EF-400-017.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_TA-14-16184CD-400-018.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-16184CD-400-019.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-16184CD-400-020.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-16184CD-400-021.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-16184CD-400-022.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-16184CD-400-023.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-16184CD-400-024.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-16184CD-400-025.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-16184CD-400-026.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-16184CD-400-027.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-16184CD-400-028.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-16184CD-400-029.png,Ductal_Carcinoma,Ductal_Carcinoma,malignant
+SOB_B_TA-14-19854C-400-001.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_TA-14-19854C-400-002.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_TA-14-19854C-400-003.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_TA-14-19854C-400-004.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_TA-14-19854C-400-005.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_TA-14-19854C-400-006.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_TA-14-19854C-400-007.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_TA-14-19854C-400-008.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_TA-14-19854C-400-009.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_TA-14-19854C-400-010.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_TA-14-19854C-400-011.png,Ductal_Carcinoma,Fibro adenoma,benign
+SOB_B_TA-14-19854C-400-012.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_TA-14-21978AB-400-010.png,Ductal_Carcinoma,Tubular Adenoma,benign
+SOB_B_TA-14-21978AB-400-011.png,Ductal_Carcinoma,Tubular Adenoma,benign
