@@ -68,19 +68,22 @@ def predict():
     with torch.no_grad():
         features = extract_features(image_tensor)
         outputs = classifier(features)
-        _, pred = torch.max(outputs, 1)
+        probs = torch.nn.functional.softmax(outputs, dim=1)
+        confidence, pred = torch.max(probs, 1)
+
         pred_subtype = class_names[pred.item()]
         pred_main_type = get_main_type(pred_subtype)
 
     return jsonify({
-        'image_url': '/' + filename.replace("\\", "/"),
+        'image_url': '/uploads/' + file.filename,
         'pred_subtype': pred_subtype,
-        'pred_main_type': pred_main_type
+        'pred_main_type': pred_main_type,
+        'confidence': round(confidence.item() * 100, 2)  # %
     })
 
 @app.route('/uploads/<path:filename>')
 def uploaded_file(filename):
-    return send_from_directory('', filename)
+    return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
 
 # -------------------
 # Run app
